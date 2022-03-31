@@ -1,0 +1,50 @@
+body {
+    background-color: #FFE53B;
+    background-image: linear-gradient(147deg, #FFE53B 0%, #FF2525 74%);
+}
+nav {
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+    display: flex;
+    width: 100%;
+    height: 70px;
+    align-items: stretch;
+    justify-content: space-around;
+}
+
+.header-text {
+    color: black;
+    font-family: #f9faf8;
+    font-size: 24px;
+    font-weight: 300;
+    padding-left: 12px;
+    padding-right: 30px;
+    white-space: nowrap;
+    width: 11.5%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#txtVal {
+    margin: auto;~
+    display: block;  
+}
+
+.button {
+    margin-left: auto;
+    margin-left: auto;
+}
+#list {
+    color: black;
+    font-family: #f9faf8;
+    font-size: 24px;
+    font-weight: 300;
+    padding-left: 12px;
+    padding-right: 30px;
+    white-space: nowrap;
+    width: 11.5%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
