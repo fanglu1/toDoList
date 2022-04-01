@@ -63,3 +63,8 @@ nav {
     list-style-type: none;
 }
 
+.gif {
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+}
