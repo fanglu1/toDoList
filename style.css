@@ -1,4 +1,4 @@
-body {
+html, body {
     background-color: #FFE53B;
     background-image: linear-gradient(147deg, #FFE53B 0%, #FF2525 74%);
     height: 100%;
@@ -47,7 +47,6 @@ nav {
     text-align: center;
 }
 
-
 #list {
     color: black;
     font-family: #f9faf8;
@@ -56,10 +55,16 @@ nav {
     padding-left: 12px;
     padding-right: 30px;
     white-space: nowrap;
-    width: 11.5%;
+    width: 25%;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
     border-style: groove;
     list-style-type: none;
+}
+
+gif {
+    display: flex; 
+justify-content: center; 
+align-items: center;
 }
