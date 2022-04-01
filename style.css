@@ -26,6 +26,19 @@ nav {
     margin-right: auto;
 }
 
+.title {
+    color: black;
+    font-family: #f9faf8;
+    font-size: 24px;
+    font-weight: 300;
+    padding-left: 12px;
+    padding-right: 30px;
+    white-space: nowrap;
+    width: 11.5%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
 .txtbutton {
     margin-left: auto;
     margin-right: auto;
